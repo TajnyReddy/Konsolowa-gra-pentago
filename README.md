@@ -1,0 +1,1 @@
+# Konsolowa-gra-pentago
