@@ -1,5 +1,6 @@
 # Pentago console game
 Project PENTAGO is a console implementation of the popular logic game. Players compete against each other, aiming to align five of their tokens in a row, column, or diagonal on a rotating board.
+
 ![image](https://github.com/TajnyReddy/Konsolowa-gra-pentago/assets/59600478/c4dd3171-ba8e-4ab0-bc0d-7cf85dc3b84e)
 
 ## Features:
